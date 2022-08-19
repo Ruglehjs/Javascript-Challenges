@@ -15,6 +15,9 @@ Serie de desafios de javascript básico, medio y avanzado en situaciones laboral
 - Comience a trabajar desde el nivel que le parezca adecuado a su conocimiento
 - Suba el avance a su cuenta de Github
 
+## Challenges
+
+
 1️⃣ Se necesita crear un boton en pantalla con el texto "Agrandar Texto" que permita al usuario agrandar el texto de la página como medida de accesibilidad, el cliente pide que los títulos crezcan al menos un 20% y los párrafos al menos un 30% (⭐) 
 
 2️⃣ El cliente ahora requiere crear el mismo botón pero para bajar el tamaño de las fuentes una vez estas fuentes hayan sido alteradas por el botón anterior, tener en cuenta que debe haber un minimo y un maximo de tamaño de fuente (⭐)
