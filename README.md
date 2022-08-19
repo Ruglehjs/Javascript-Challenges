@@ -13,6 +13,7 @@ Serie de desafios de javascript, diferentes niveles de dificultad en situaciones
 
 - Realice un Fork del proyecto a su cuenta de Github
 - Comience a trabajar desde el nivel que le parezca adecuado a su conocimiento
+- Edite los archivos dentro de la carpeta ```\boilerplate``` puede hacer una copia por cada challenge (recomendado) o editar la misma carpeta
 - Suba el avance a su cuenta de Github
 
 ## Niveles
