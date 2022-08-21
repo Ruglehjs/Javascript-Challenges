@@ -2,6 +2,14 @@
 
 Serie de desafios de Javascript, diferentes niveles de dificultad en situaciones laborales reales
 
+## Requisitos
+
+![HTML5](https://img.shields.io/badge/-HTML5-%23e96228?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-%2301a7dd?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23f7e018?logo=javascript&logoColor=white)
+
+## Antes de empezar
+
 - Está permitido (y recomendado) googlear y consumir material en internet para completar los desafios
 - La idea principal es entender los conceptos a utilizar, sea consciente que copiando y pegando el código podría no ser suficiente para usted, el consejo es aprender e investigar sobre cada concepto que no maneje de los desafios
 - Los enunciados son redactados como si fuera un requisito de un cliente en una compañia de TI
