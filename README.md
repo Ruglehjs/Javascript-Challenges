@@ -67,6 +67,13 @@ Serie de desafios de Javascript, diferentes niveles de dificultad en situaciones
     - De cumplir todas las condiciones el campo debe mostrarse en pantalla con bordes color verde
     - De no cumplir todas las condiciones el campo debe mostrarse en pantalla con bordes color rojo
 
+5) ⚡⚡⚡ El cliente necesita una sección para la conversión de CLP a USD, los usuarios ingresarían un monto en CLP (sin puntos) en un campo de texto y en tiempo real la conversión se mostraria al lado de este campo de texto en USD (con comas y puntos de ser necesario)
 
+### User Behavior
 
+1) ⚡ Un cliente requerie capturar la IP de todos los usuarios que entren a su página, como primera etapa cada usuario que entre debe ver su propia IP Publica en pantalla dentro de un elemento ```H1```,
+
+2) ⚡⚡ El mismo cliente ahora requiere saber en que tipo de dispositivo se está consumiendo la página, por lo que le pide que investigue la forma de capturar si el usuario está viendo la página desde un computador o smartphone, debe mostrar el resultado en pantalla en un elemento ```h4``` 
+
+3) ⚡⚡⚡ Por último, el cliente necesita conocer los clicks que realiza el usuario en su página para fines analíticos y de estudio, por lo que le pide encontrar la forma de guardar cada coordenada de clicks que se realicé en su página y mostrar el valor en pantalla en un elemento de lista. Cada vez que el usuario haga un nuevo click se mostraria como un nuevo elemento ```li``` dentro de la lista ```ul```
 
