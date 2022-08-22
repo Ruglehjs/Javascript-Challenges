@@ -12,7 +12,7 @@ Serie de desafios de Javascript, diferentes niveles de dificultad en situaciones
 
 - Está permitido (y recomendado) googlear y consumir material en internet para completar los desafios
 - La idea principal es entender los conceptos a utilizar, sea consciente que copiando y pegando el código podría no ser suficiente para usted, el consejo es aprender e investigar sobre cada concepto que no maneje de los desafios
-- Los enunciados son redactados como si fuera un requisito de un cliente en una compañia de TI
+- Los enunciados son redactados como si fuera un requisito de un cliente en una compañia de TI, por lo tanto, es esperable que no tendrá todas las especificaciones técnicas y usted tendrá que tomar ese tipo de decisiones.
 - Como se organice y se estructure el proyecto es responsabilidad suya, pero dejaré un boilerplate de proyecto en una carpeta de este repositorio
 - Mientras más prácticas de ES6+ aplique mejor 
 
